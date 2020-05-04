@@ -205,7 +205,7 @@ text-align: center;}
     text-align: center;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-around;
     flex-wrap: wrap;
     
 
@@ -216,6 +216,8 @@ text-align: center;}
     margin: 0px -15px;
     padding: 48px 0px;
     display: inline-flex;
+    padding-left:30px;
+    padding-right:30px;
     
     
 
