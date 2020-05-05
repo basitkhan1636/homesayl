@@ -333,7 +333,7 @@ div.wwarow1{
     text-align: center;
     font-size: 14px;
     font-family: sans-serif;
-    margin: 30px 30px 30px 30px;
+    margin: 30px 10px 30px 10px;
     padding: 30px;
     color: #666666; 
     width: 293.3px;
@@ -391,12 +391,13 @@ div.wwarow1{
     text-transform: uppercase;
     font-weight: 600;
     line-height: 34.287px;
+   
     
 }
 .rowhepmai{
     margin-left: -15px;
     margin-right: -15px;
-    width: 800px;
+    
     
 }
 .hep1{
@@ -411,7 +412,7 @@ div.wwarow1{
     text-align: left;
     border: 1px solid #eeeeee;
     background: #f7f8fa;
-    width:280px;
+    width:260px;
     display: inline-block;
     margin-left: 20px;
     
@@ -445,6 +446,7 @@ text-shadow: 1px;
     font-family: Arial, Helvetica, sans-serif;
     padding: 0px 15px;
     text-align: left;
+    float: right;
 
     
 }
@@ -557,6 +559,7 @@ text-shadow: 1px;
     font-size: 14px;
     font-family: Arial, Helvetica, sans-serif;
     padding-bottom: 40px;
+    text-align: center;
 
 }
 .galpic1{
@@ -650,6 +653,7 @@ text-shadow: 1px;
     width: 330px;
     height: 240px;
     margin-bottom: 10px;
+    margin-top: 20px;
 }
 .usefumai h5{
     font-size: 20px;
